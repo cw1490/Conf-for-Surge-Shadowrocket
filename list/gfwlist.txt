@@ -3,6 +3,7 @@
 
 DOMAIN-SUFFIX,85.17.73.31,Proxy
 DOMAIN-SUFFIX,agnesb.fr,Proxy
+DOMAIN-SUFFIX,notion.so,Proxy
 DOMAIN-SUFFIX,akiba-web.com,Proxy
 DOMAIN-SUFFIX,altrec.com,Proxy
 DOMAIN-SUFFIX,apartments.com,Proxy
