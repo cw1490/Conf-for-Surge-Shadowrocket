@@ -1,6 +1,7 @@
 # SS config file for surge with gfw list 
 # updated on 2018-06-11 11:06:05
 
+DOMAIN-SUFFIX,marginnote.com,Proxy
 DOMAIN-SUFFIX,notion.com,Proxy
 DOMAIN-SUFFIX,github.com,Proxy
 DOMAIN-SUFFIX,udemy.com,Proxy
